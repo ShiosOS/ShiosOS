@@ -6,9 +6,14 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Vue+Developer-pastel?style=flat-square&logo=code&logoColor=white&color=E6949E"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-.NET+Engineer-pastel?style=flat-square&logo=dotnet&logoColor=white&color=DB8B93"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-Neovim+Enthusiast-pastel?style=flat-square&logo=neovim&logoColor=white&color=CE8589"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Vue Developer-pastel?style=flat-square&logo=code&logoColor=white&color=E6949E"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-.NET Engineer-pastel?style=flat-square&logo=dotnet&logoColor=white&color=DB8B93"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Neovim Enthusiast-pastel?style=flat-square&logo=neovim&logoColor=white&color=CE8589"/>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/julius-walton-10a2a714a/">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Connect with me on LinkedIn-pastel?style=flat-square&logo=linkedin&logoColor=white&color=E6949E"/>
+    </a>
+  </p>
   </p>
 </div>
 
