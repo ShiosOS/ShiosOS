@@ -20,9 +20,6 @@
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiosOS&background=FFF0F0&border=F2D4D6&stroke=E6949E&ring=DB8B93&fire=CE8589&currStreakNum=B47B83&sideNums=B47B83&currStreakLabel=CE8589&sideLabels=CE8589&dates=DB8B93&hide_border=true&card_width=360" width="100%" />
-    </td>
-    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiosOS&layout=compact&hide_border=true&title_color=DB8B93&text_color=B47B83&bg_color=FFF0F0" width="100%" />
     </td>
   </tr>
