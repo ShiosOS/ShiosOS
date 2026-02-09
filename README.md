@@ -17,14 +17,6 @@
   </p>
 </div>
 
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiosOS&layout=compact&hide_border=true&title_color=DB8B93&text_color=B47B83&bg_color=FFF0F0" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <h4>Frontend & UI</h4>
   <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind&theme=light" />
