@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind&theme=light" />
   
   <h4>Backend & Infrastructure</h4>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,docker,azure&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,azure&theme=light" />
   
   <h4>Tools & Development</h4>
   <img src="https://skillicons.dev/icons?i=git,neovim,linux&theme=light" />
