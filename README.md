@@ -7,12 +7,6 @@
   <p><em>Exploring how to build software with AI without accumulating cognitive debt.</em></p>
 
   <p>
-    <img src="https://custom-icon-badges.demolab.com/badge/-Vue Developer-pastel?style=flat-square&logo=code&logoColor=white&color=E6949E" alt="Vue Developer" />
-    <img src="https://custom-icon-badges.demolab.com/badge/-.NET Engineer-pastel?style=flat-square&logo=dotnet&logoColor=white&color=DB8B93" alt=".NET Engineer" />
-    <img src="https://custom-icon-badges.demolab.com/badge/-Neovim Enthusiast-pastel?style=flat-square&logo=neovim&logoColor=white&color=CE8589" alt="Neovim Enthusiast" />
-  </p>
-
-  <p>
     <a href="https://www.linkedin.com/in/julius-walton-10a2a714a/">
       <img src="https://custom-icon-badges.demolab.com/badge/-Connect with me on LinkedIn-pastel?style=flat-square&logo=linkedin&logoColor=white&color=E6949E" alt="LinkedIn" />
     </a>
@@ -28,31 +22,21 @@ I'm a software engineer at **Cognito Forms**, working on features that span the 
 
 I'm particularly interested in backend engineering, system design, and understanding how complex systems fit together. I'm exploring how to build software with AI while continuing to develop my own technical understanding and engineering judgment.
 
-<h3 align="center">Tech Stack</h3>
-
 <div align="center">
-  <h4>Languages &amp; Frameworks</h4>
+  <h3>Core Stack</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,vue,nodejs,tailwind&theme=dark" alt="C#, .NET, TypeScript, JavaScript, React, Vue, Node.js, Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,vue,postgres&theme=dark" alt="C#, .NET, TypeScript, React, Vue, PostgreSQL" />
   </p>
 
-  <h4>Data &amp; Infrastructure</h4>
+  <h3>AI Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=postgres,supabase,azure,cloudflare,githubactions&theme=dark" alt="PostgreSQL, Supabase, Azure, Cloudflare, GitHub Actions" />
+    <img src="./assets/ai-icons/claude-code.svg" width="48" height="48" alt="Claude Code" />
+    &nbsp;
+    <img src="./assets/ai-icons/codex.svg" width="48" height="48" alt="Codex" />
+    &nbsp;
+    <img src="./assets/ai-icons/cursor.svg" width="48" height="48" alt="Cursor" />
   </p>
-
-  <h4>Development &amp; Testing</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,linux,neovim,vitest&theme=dark" alt="Git, Linux, Neovim, Vitest" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />
-  </p>
-
-  <h4>AI Tools</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Claude_Code-E6949E?style=for-the-badge&logo=claude&logoColor=white" height="38" alt="Claude Code" />
-    <img src="https://img.shields.io/badge/OpenAI_Codex-DB8B93?style=for-the-badge&logo=openai&logoColor=white" height="38" alt="OpenAI Codex" />
-    <img src="https://img.shields.io/badge/Cursor-CE8589?style=for-the-badge&logo=cursor&logoColor=white" height="38" alt="Cursor" />
-  </p>
+  <sub>Claude Code · Codex · Cursor</sub>
 </div>
 
 ### What I'm Building
