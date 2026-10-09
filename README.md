@@ -36,7 +36,6 @@ I'm particularly interested in backend engineering, system design, and understan
     &nbsp;
     <img src="./assets/ai-icons/cursor.svg" width="48" height="48" alt="Cursor" />
   </p>
-  <sub>Claude Code · Codex · Cursor</sub>
 </div>
 
 ### What I'm Building
