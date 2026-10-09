@@ -28,26 +28,44 @@ I'm a software engineer at **Cognito Forms**, working on features that span the 
 
 I'm particularly interested in backend engineering, system design, and understanding how complex systems fit together. I'm exploring how to build software with AI while continuing to develop my own technical understanding and engineering judgment.
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
-  <h4>Languages &amp; Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,vue,nodejs,tailwind&theme=light" alt="C#, .NET, TypeScript, JavaScript, React, Vue, Node.js, Tailwind CSS" />
-
-  <h4>Data &amp; Infrastructure</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,azure,cloudflare,githubactions&theme=light" alt="PostgreSQL, Supabase, Azure, Cloudflare, GitHub Actions" />
-
-  <h4>Development &amp; Testing</h4>
-  <img src="https://skillicons.dev/icons?i=git,linux,neovim,vitest&theme=light" alt="Git, Linux, Neovim, Vitest" />
   <p>
-    <img src="https://img.shields.io/badge/Playwright-CE8589?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+    <strong>Languages &amp; Frameworks</strong><br />
+    <img src="https://img.shields.io/badge/C%23-B55D73?style=flat-square&logo=csharp&logoColor=white" alt="C#" height="28" />
+    <img src="https://img.shields.io/badge/.NET-B55D73?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" height="28" />
+    <img src="https://img.shields.io/badge/TypeScript-B55D73?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28" />
+    <img src="https://img.shields.io/badge/JavaScript-B55D73?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="28" />
+    <img src="https://img.shields.io/badge/React-B55D73?style=flat-square&logo=react&logoColor=white" alt="React" height="28" />
+    <img src="https://img.shields.io/badge/Vue-B55D73?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" height="28" />
+    <img src="https://img.shields.io/badge/Node.js-B55D73?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="28" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-B55D73?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="28" />
   </p>
 
-  <h4>AI Tools</h4>
   <p>
-    <img src="https://img.shields.io/badge/Claude_Code-E6949E?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-    <img src="https://img.shields.io/badge/OpenAI_Codex-DB8B93?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-    <img src="https://img.shields.io/badge/Cursor-CE8589?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+    <strong>Data &amp; Infrastructure</strong><br />
+    <img src="https://img.shields.io/badge/PostgreSQL-AC6276?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28" />
+    <img src="https://img.shields.io/badge/Supabase-AC6276?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="28" />
+    <img src="https://img.shields.io/badge/Azure-AC6276?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" height="28" />
+    <img src="https://img.shields.io/badge/Cloudflare-AC6276?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" height="28" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-AC6276?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" height="28" />
+  </p>
+
+  <p>
+    <strong>Development &amp; Testing</strong><br />
+    <img src="https://img.shields.io/badge/Git-A05A73?style=flat-square&logo=git&logoColor=white" alt="Git" height="28" />
+    <img src="https://img.shields.io/badge/Linux-A05A73?style=flat-square&logo=linux&logoColor=white" alt="Linux" height="28" />
+    <img src="https://img.shields.io/badge/Neovim-A05A73?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" height="28" />
+    <img src="https://img.shields.io/badge/Playwright-A05A73?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" height="28" />
+    <img src="https://img.shields.io/badge/Vitest-A05A73?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" height="28" />
+  </p>
+
+  <p>
+    <strong>AI Tools</strong><br />
+    <img src="https://img.shields.io/badge/Claude_Code-91566E?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" height="28" />
+    <img src="https://img.shields.io/badge/OpenAI_Codex-91566E?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" height="28" />
+    <img src="https://img.shields.io/badge/Cursor-91566E?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="28" />
   </p>
 </div>
 
